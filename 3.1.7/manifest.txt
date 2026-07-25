@@ -1,0 +1,5 @@
+version=3.1.7
+file=3.1.7/firmware-3.1.7.bin
+size=521112
+sha256=ccf46bfd6387bd2858febe78cdf913f00183a88603a4b876a3351073017bd091
+enc=aes256gcm
