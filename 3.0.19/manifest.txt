@@ -1,0 +1,5 @@
+version=3.0.19
+file=3.0.19/firmware-3.0.19.bin
+size=521112
+sha256=bc44b09fe59b23ba0e8b13e976e471697b85cce08f814392ae886835ba89000d
+enc=aes256gcm

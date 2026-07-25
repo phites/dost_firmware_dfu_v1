@@ -1,0 +1,5 @@
+version=3.0.26
+file=3.0.26/firmware-3.0.26.bin
+size=518296
+sha256=9402b2566f455e342697dffcfb822788de15d19349edbb52de06c65eda8d0b4d
+enc=aes256gcm
