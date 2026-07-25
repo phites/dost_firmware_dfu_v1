@@ -1,0 +1,5 @@
+version=3.0.8
+file=3.0.8/firmware-3.0.8.bin
+size=484504
+sha256=a3311b00c41147fd1cb5babb513ae2b4f2b090f4792235b89d4ace0aa3c3b04c
+enc=aes256gcm
