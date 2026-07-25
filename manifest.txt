@@ -1,5 +1,5 @@
 version=3.1.4
-file=3.1.1/firmware-3.1.1.bin
-size=518296
-sha256=c22ef9c776cc8a3984e0e41b5a307fe3a6298f1664fd97dca3535703c6f78b77
+file=3.1.4/firmware-3.1.4.bin
+size=521112
+sha256=21b1062a3a2efa3390fe719f4040cb36c9bb9b6fbc3cade4cf56e6ebdf70eeb7
 enc=aes256gcm
