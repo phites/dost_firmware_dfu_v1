@@ -1,0 +1,5 @@
+version=2.8.0
+file=2.8.0/firmware-2.8.0.bin
+size=484504
+sha256=66ff131aa2cccbe04f5a77475ee9da6fd328bc8a99e780d12b59746352e8c835
+enc=aes256gcm

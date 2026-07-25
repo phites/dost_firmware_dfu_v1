@@ -1,0 +1,5 @@
+version=2.6.0
+file=2.6.0/firmware-2.6.0.bin
+size=484504
+sha256=72aef3cb58227082c864652944a55facc0030e7718f7a549951f283d6562cb9d
+enc=aes256gcm
