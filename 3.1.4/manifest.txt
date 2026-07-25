@@ -1,0 +1,5 @@
+version=3.1.4
+file=3.1.4/firmware-3.1.4.bin
+size=521112
+sha256=21b1062a3a2efa3390fe719f4040cb36c9bb9b6fbc3cade4cf56e6ebdf70eeb7
+enc=aes256gcm
