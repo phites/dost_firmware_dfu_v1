@@ -1,5 +1,0 @@
-version=3.0.16
-file=3.0.16/firmware-3.0.16.bin
-size=521112
-sha256=f3223b750dbd7c18b6e650fdf3da67addf224a23bfab7ea1b17885dd5ec96510
-enc=aes256gcm

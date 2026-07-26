@@ -1,5 +1,0 @@
-version=3.0.11
-file=3.0.11/firmware-3.0.11.bin
-size=484504
-sha256=b3b570add08b4f77d02ea28ca6e030a12e72d54bb2a39b294d1ab108603f7fd2
-enc=aes256gcm

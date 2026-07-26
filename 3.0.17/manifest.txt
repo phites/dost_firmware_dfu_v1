@@ -1,5 +1,0 @@
-version=3.0.17
-file=3.0.17/firmware-3.0.17.bin
-size=521112
-sha256=c6bfa05d1588034b0f87fd0c3cc117f9e55b3999d7ea9f44e298a78d226297d9
-enc=aes256gcm

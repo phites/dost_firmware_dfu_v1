@@ -1,5 +1,0 @@
-version=3.0.12
-file=3.0.12/firmware-3.0.12.bin
-size=484504
-sha256=f613d47fcdad44863db7f26ba6c223960c1e715089d20945955b631b1b03024a
-enc=aes256gcm

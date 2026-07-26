@@ -1,5 +1,0 @@
-version=2.7.0
-file=2.7.0/firmware-2.7.0.bin
-size=484504
-sha256=8327c9dbc6207668e340e81bb5416d1d3f6a5b19b9d5d6e3ada6a7204135731d
-enc=aes256gcm

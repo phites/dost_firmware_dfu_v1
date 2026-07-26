@@ -1,5 +1,0 @@
-version=3.0.20
-file=3.0.20/firmware-3.0.20.bin
-size=521112
-sha256=6380f9de93b6b79034df67aa5289cb8b0093cb5e9235143d06b9e1c7d8fd133a
-enc=aes256gcm

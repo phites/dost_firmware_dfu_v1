@@ -1,5 +1,0 @@
-version=3.0.23
-file=3.0.23/firmware-3.0.23.bin
-size=518296
-sha256=09f9b1495ff2feb6b8609d5940a5d1bab0635229f6b670818492932b3f83daa7
-enc=aes256gcm

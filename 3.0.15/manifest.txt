@@ -1,5 +1,0 @@
-version=3.0.15
-file=3.0.15/firmware-3.0.15.bin
-size=521112
-sha256=d4c051189e7fa6b0acc5d3ed00686e7cb4efd96a7e9c75bc81024c80b32a1141
-enc=aes256gcm

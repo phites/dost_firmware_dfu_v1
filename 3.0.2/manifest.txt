@@ -1,5 +1,0 @@
-version=3.0.2
-file=3.0.2/firmware-3.0.2.bin
-size=484504
-sha256=2c5e556260fab439ad49298ad9f0ef39eff5036aa6c3f67c7e31eb8bd962dad1
-enc=aes256gcm
