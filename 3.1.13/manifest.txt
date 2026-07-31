@@ -1,5 +1,0 @@
-version=3.1.13
-file=3.1.13/firmware-3.1.13.bin
-size=526744
-sha256=1c0616a74e691928c7f52fc906ba4e0f9d3a387d5f3ba9ca636076d7141021f2
-enc=aes256gcm

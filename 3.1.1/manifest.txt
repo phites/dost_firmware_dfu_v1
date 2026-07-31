@@ -1,5 +1,0 @@
-version=3.1.1
-file=3.1.1/firmware-3.1.1.bin
-size=518296
-sha256=c22ef9c776cc8a3984e0e41b5a307fe3a6298f1664fd97dca3535703c6f78b77
-enc=aes256gcm

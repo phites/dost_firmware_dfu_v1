@@ -1,5 +1,0 @@
-version=3.1.21
-file=3.1.21/firmware-3.1.21.bin
-size=526744
-sha256=c285b826895ce04386d501898e1a7d87ed8792a542a4ef2d48425761dd387cc4
-enc=aes256gcm

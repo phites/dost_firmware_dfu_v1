@@ -1,5 +1,0 @@
-version=3.1.5
-file=3.1.5/firmware-3.1.5.bin
-size=521112
-sha256=3e6ec9eaa3fd9ad6573215250c19af7c5a4ad65a25564ce45a2edc2560907181
-enc=aes256gcm

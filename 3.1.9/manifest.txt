@@ -1,5 +1,0 @@
-version=3.1.9
-file=3.1.9/firmware-3.1.9.bin
-size=526744
-sha256=b7bfb5e221801a4d7397ac4ee18bfcbc2b48d6a29c171cf78079b6571cf3fe29
-enc=aes256gcm

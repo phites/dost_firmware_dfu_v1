@@ -1,5 +1,0 @@
-version=3.1.10
-file=3.1.10/firmware-3.1.10.bin
-size=526744
-sha256=2552fd782d082cb9c328cdc9c6d490f7a80177505d777dd95b3da5b7b9cc6674
-enc=aes256gcm

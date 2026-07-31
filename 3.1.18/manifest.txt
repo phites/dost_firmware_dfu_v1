@@ -1,5 +1,0 @@
-version=3.1.18
-file=3.1.18/firmware-3.1.18.bin
-size=526744
-sha256=df89ce31e7fe8bc60bc8785ff060e06aca60c3b28e3f1121ee1e7767ae0a2b69
-enc=aes256gcm
