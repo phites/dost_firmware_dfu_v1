@@ -1,5 +1,5 @@
 version=3.1.14
 file=3.1.14/firmware-3.1.14.bin
-size=526744
-sha256=69de19c2785747d6703d9ef13df8e23e52506e60eb2709d3e94d48df68e7680e
-enc=aes256gcm
+size=199453
+sha256=8cb234edab14b06587b8c5c4da962b83996720478aae1695e42e8fff4e4e8fe6
+enc=mcuboot-ecies-p256-aes128
