@@ -1,5 +1,0 @@
-version=3.7.0
-file=3.7.0/firmware-3.7.0.bin
-size=203565
-sha256=6a9758bd64efd63eb84105d5caf1722e89263db1a00846e1541fa135d9a281fd
-enc=mcuboot-ecies-p256-aes128

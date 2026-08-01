@@ -1,5 +1,0 @@
-version=4.0.0
-file=4.0.0/firmware-4.0.0.bin
-size=219628
-sha256=9529f842fcd21ae054fc3c7e4e71b9a8438ed04c0488eecc3b6d5f23bcc6adac
-enc=mcuboot-ecies-p256-aes128

@@ -1,5 +1,0 @@
-version=3.6.1
-file=3.6.1/firmware-3.6.1.bin
-size=203005
-sha256=6add6070b4527bc9a0ba187dbf96da07676475d3b2c1d12e367d90bd9250ea17
-enc=mcuboot-ecies-p256-aes128

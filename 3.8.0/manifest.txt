@@ -1,5 +1,0 @@
-version=3.8.0
-file=3.8.0/firmware-3.8.0.bin
-size=204603
-sha256=9991e9e45918da9ba9553bd2ad186237fd110f19eb631aa2a6c57994f0be856f
-enc=mcuboot-ecies-p256-aes128
