@@ -1,5 +1,0 @@
-version=5.1.0
-file=5.1.0/firmware-5.1.0.bin
-size=219739
-sha256=80ae28e19836cebdadb61ca10948d54b587cb6a1e13e9cd82b8d771fa3461a2c
-enc=mcuboot-ecies-p256-aes128
