@@ -1,5 +1,0 @@
-version=7.0.0
-file=7.0.0/firmware-7.0.0.bin
-size=232124
-sha256=8915bb009877504901978be7e092eb8da8b0db9c7c76e8c27fe37907503376c3
-enc=mcuboot-ecies-p256-aes128
