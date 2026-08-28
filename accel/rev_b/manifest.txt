@@ -1,0 +1,5 @@
+version=6.9.0
+file=6.9.0/firmware-6.9.0.bin
+size=198011
+sha256=95b39c43e99f44f4debaee3746ba729ac53295f2dae13bb8f24fa126b10837dc
+enc=mcuboot-ecdsa-p256-plain
