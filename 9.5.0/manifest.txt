@@ -1,5 +1,0 @@
-version=9.5.0
-file=9.5.0/firmware-9.5.0.bin
-size=274381
-sha256=f6fbde8a40aebfdf2aafc4679afe146b7af6660ffe61c2cab93d2189dcfe8c2f
-enc=mcuboot-ecies-p256-aes128

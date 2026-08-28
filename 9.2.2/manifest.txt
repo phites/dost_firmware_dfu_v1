@@ -1,5 +1,0 @@
-version=9.2.2
-file=9.2.2/firmware-9.2.2.bin
-size=271195
-sha256=4543ff9081a57dec1155709f5d13189e188243c042feeb5e028b64a64087f863
-enc=mcuboot-ecies-p256-aes128
