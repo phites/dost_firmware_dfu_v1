@@ -1,5 +1,0 @@
-version=7.3.1
-file=7.3.1/firmware-7.3.1.bin
-size=200128
-sha256=4e5f797ac3ca649f1428e6129fcccb358221747d3fea4290a3635729e352d9af
-enc=mcuboot-ecdsa-p256-plain

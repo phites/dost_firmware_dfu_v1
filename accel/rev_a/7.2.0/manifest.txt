@@ -1,5 +1,0 @@
-version=7.2.0
-file=7.2.0/firmware-7.2.0.bin
-size=198683
-sha256=038b12662c85e64205d6218054dd141dd9bcd523e3dca5ddec320cd728f70f98
-enc=mcuboot-ecdsa-p256-plain
