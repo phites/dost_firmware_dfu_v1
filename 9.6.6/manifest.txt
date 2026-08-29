@@ -1,0 +1,5 @@
+version=9.6.6
+file=9.6.6/firmware-9.6.6.bin
+size=274364
+sha256=c094d7d75e0e3bf9870cbb57b32d4c7acca83d706a7b21d6509067ce92ccdbcb
+enc=mcuboot-ecies-p256-aes128
