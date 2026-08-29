@@ -1,5 +1,0 @@
-version=9.6.0
-file=9.6.0/firmware-9.6.0.bin
-size=272989
-sha256=d007bb493c4ce87b5f1eee5e27096f1e708d1549636cd97ea9e549b77d38f8fc
-enc=mcuboot-ecies-p256-aes128
