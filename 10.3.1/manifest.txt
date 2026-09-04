@@ -1,5 +1,0 @@
-version=10.3.1
-file=10.3.1/firmware-10.3.1.bin
-size=281724
-sha256=fdf63bb458606aac758d96158ff9575aa99c651412736bfc46fc30f5c56b63bc
-enc=mcuboot-ecies-p256-aes128
